@@ -21,7 +21,7 @@
     "@algolia/client-search": "^4.18.0",
     "@crowdin/cli": "3.13.0",
     "@docusaurus/core": "2.4.1",
-    "@docusaurus/plugin-client-redirects": "2.4.1",
+    "@docusaurus/plugin-client-redirects": "2.4.3",
     "@docusaurus/plugin-content-docs": "2.4.1",
     "@docusaurus/preset-classic": "2.4.1",
     "@types/react": "^17.0.49",
