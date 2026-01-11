@@ -1,5 +1,9 @@
 lockfileVersion: '6.0'
 
+settings:
+  autoInstallPeers: true
+  excludeLinksFromLockfile: false
+
 dependencies:
   common-tags:
     specifier: ^1.8.2
@@ -23,8 +27,8 @@ dependencies:
     specifier: ^4.0.0
     version: 4.0.0
   pretty-bytes:
-    specifier: ^6.0.0
-    version: 6.0.0
+    specifier: ^6.1.1
+    version: 6.1.1
   pretty-ms:
     specifier: ^7.0.1
     version: 7.0.1
@@ -408,8 +412,8 @@ packages:
     engines: {node: '>=8.6'}
     dev: false
 
-  /pretty-bytes@6.0.0:
-    resolution: {integrity: sha512-6UqkYefdogmzqAZWzJ7laYeJnaXDy2/J+ZqiiMtS7t7OfpXWTlaeGMwX8U6EFvPV/YWWEKRkS8hKS4k60WHTOg==}
+  /pretty-bytes@6.1.1:
+    resolution: {integrity: sha512-mQUvGU6aUFQ+rNvTIAcZuWGRT9a6f6Yrg9bHs4ImKF+HZCEK+plBvnAZYSIQztknZF2qnzNtr6F8s0+IuptdlQ==}
     engines: {node: ^14.13.1 || >=16.0.0}
     dev: false
 
